@@ -1,0 +1,7 @@
+{
+  "name": "ionic-webrtc-sample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
